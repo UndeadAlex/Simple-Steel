@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "testmod:steel_block",
+    "#forge:storage_blocks/steel"
+  ]
+}

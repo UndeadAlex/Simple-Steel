@@ -1,0 +1,9 @@
+25989b302a14dbb302bbb91dd2e7a154bb51c113 assets/testmod/blockstates/steel_block.json
+17e5b669d73347a36ea4d94c6e03531ad1ce9fa2 assets/testmod/models/block/steel_block.json
+214a762c2c67361438ca6bc523e188df5acbff90 assets/testmod/models/item/steel_block.json
+e9372f36af9207def0311908eae55f464428d67c assets/testmod/models/item/steel_ingot.json
+1cdb9a93f7285db81a715073646eca38f218710d data/forge/tags/blocks/storage_blocks.json
+a899bc9d013f64c6b539e85024465a0918d2737f data/forge/tags/blocks/storage_blocks/steel.json
+dad08b46d1c4ee4a499dc38035c4cf69feacdb7c data/forge/tags/items/ingots.json
+721ca9f961e763a606edae4b7779f60747452005 data/forge/tags/items/ingots/steel.json
+d74806b7857dbb264975dda31427980953cda699 data/forge/tags/items/storage_blocks/steel.json
